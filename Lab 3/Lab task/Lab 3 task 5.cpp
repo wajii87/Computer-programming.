@@ -1,4 +1,4 @@
-#include <iostream> // name abbas fazal
+#include <iostream> 
 using namespace std;
 
 int main()
@@ -17,4 +17,5 @@ int main()
     return 0;
 
 }
+
 
