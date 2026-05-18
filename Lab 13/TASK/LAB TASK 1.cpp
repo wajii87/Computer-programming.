@@ -15,7 +15,7 @@ int main()
     // Declare and initialize structure variable
     Person person1;
 
-    person1.name = "MUHAMMAD AWAIS";
+    person1.name = "WAJID ALI";
     person1.age = 18;
     person1.address = "SWAT";
 
