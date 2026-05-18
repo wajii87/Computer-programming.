@@ -5,8 +5,8 @@ using namespace std;
 int main()
 {
     // Declare and initialize string variables
-    string firstName = "MUHAMMAD";
-    string lastName = "AWAIS";
+    string firstName = "WAJID";
+    string lastName = "ALI";
 
     // Concatenate the strings
     string fullName = firstName + " " + lastName;
